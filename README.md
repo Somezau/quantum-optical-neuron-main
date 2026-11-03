@@ -12,7 +12,7 @@ This repository contains the simulation code for the quantum optical neuron. A s
 
 This repository contains the simulation code for the quantum optical neuron. 
 
-**Disclaimer:** This is a modified version of the original repository. It was adapted for a Final Exam (UAS) project in Grafic Computer at Universitas Islam Negeri Maulana Malik Ibrahim Malang.
+**Disclaimer:** This is a modified version of the original repository. It was adapted for a Final Exam (UAS) project in Graphic Computer at Universitas Islam Negeri Maulana Malik Ibrahim Malang.
 
 ## Modifications Made
 Berikut adalah penyesuaian yang dilakukan pada kode asli sesuai instruksi dosen untuk keperluan UAS:
