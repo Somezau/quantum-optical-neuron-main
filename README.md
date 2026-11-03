@@ -8,5 +8,17 @@ This repository contains the simulation code for the quantum optical neuron. A s
 <a target="_blank" href="https://colab.research.google.com/github/simoneroncallo/quantum-optical-neuron/blob/main/simulationCIFAR10.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> 
 
-Contributors: Angela Rosy Morgillo [@MorgilloR](https://github.com/MorgilloR) and Simone Roncallo [@simoneroncallo](https://github.com/simoneroncallo) <br>
+# Quantum optical neuron (Modified Version)
+
+This repository contains the simulation code for the quantum optical neuron. 
+
+**Disclaimer:** This is a modified version of the original repository. It was adapted for a Final Exam (UAS) project in [Isi Nama Mata Kuliah] at [Isi Nama Universitas].
+
+## Modifications Made
+Berikut adalah penyesuaian yang dilakukan pada kode asli sesuai instruksi dosen untuk keperluan UAS:
+*   Mengubah jumlah *epoch* pelatihan dari 150 menjadi 300.
+
+---
+
+Original Contributors: Angela Rosy Morgillo [@MorgilloR](https://github.com/MorgilloR) and Simone Roncallo [@simoneroncallo](https://github.com/simoneroncallo) <br>
 Reference: Simone Roncallo, Angela Rosy Morgillo, Chiara Macchiavello, Lorenzo Maccone and Seth Lloyd <i>“Quantum optical classifier with superexponential speedup”</i> (2024)
